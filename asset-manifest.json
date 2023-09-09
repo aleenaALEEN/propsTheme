@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/propsTheme/static/css/main.016bbe15.css",
+    "main.js": "/propsTheme/static/js/main.8ac7dec9.js",
+    "static/media/img07.jpg": "/propsTheme/static/media/img07.93d3908ae7c2098a4840.jpg",
+    "static/media/img32.jpg": "/propsTheme/static/media/img32.8290e97b796f5f549e4f.jpg",
+    "static/media/img28.jpg": "/propsTheme/static/media/img28.f4f0cc3ec84290edc915.jpg",
+    "static/media/img33.jpg": "/propsTheme/static/media/img33.fe86bd1e161b55eb4e11.jpg",
+    "static/media/img30.jpg": "/propsTheme/static/media/img30.a570c8226cebd4ce2be4.jpg",
+    "static/media/img29.jpg": "/propsTheme/static/media/img29.6b48889606a44ea4304c.jpg",
+    "static/media/img31.jpg": "/propsTheme/static/media/img31.1101d3a43ce40ac72cd2.jpg",
+    "static/media/img39.jpg": "/propsTheme/static/media/img39.40a6a10bc21d425f8a2a.jpg",
+    "static/media/img40.jpg": "/propsTheme/static/media/img40.cb4dd10e57a97932e3a9.jpg",
+    "static/media/img17.jpg": "/propsTheme/static/media/img17.4d71eddfa784f2a04b8f.jpg",
+    "static/media/img41.jpg": "/propsTheme/static/media/img41.4c9bd92329a27e36a5dd.jpg",
+    "static/media/img42.jpg": "/propsTheme/static/media/img42.08231c88be879b27efed.jpg",
+    "static/media/img38.jpg": "/propsTheme/static/media/img38.989cd7965c70c20001da.jpg",
+    "static/media/img43.jpg": "/propsTheme/static/media/img43.89fb7590aa2d5e2b79a7.jpg",
+    "static/media/img16.jpg": "/propsTheme/static/media/img16.d89c112173e703811cc9.jpg",
+    "static/media/img15.jpg": "/propsTheme/static/media/img15.499306b2a389adc6a81c.jpg",
+    "static/media/clippy - Copy.PNG": "/propsTheme/static/media/clippy - Copy.c2e128cf2bf743ae9fa1.PNG",
+    "static/media/clippy.PNG": "/propsTheme/static/media/clippy.c2e128cf2bf743ae9fa1.PNG",
+    "index.html": "/propsTheme/index.html",
+    "main.016bbe15.css.map": "/propsTheme/static/css/main.016bbe15.css.map",
+    "main.8ac7dec9.js.map": "/propsTheme/static/js/main.8ac7dec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016bbe15.css",
+    "static/js/main.8ac7dec9.js"
+  ]
+}
